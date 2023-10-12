@@ -1,3 +1,4 @@
+![logo](https://github.com/TB4Maniyar/Maniyaript/blob/main/Tk.banner.gif)
 <h1 align="center">Hi 👋, I'm Tayyab Bilal Maniyar</h1>
 <h3 align="center">A passionate Web developer as Well as Data Scientist from India</h3>
 <img align ="right" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
