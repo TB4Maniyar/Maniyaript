@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tayyab Bilal Maniyar</h1>
 <h3 align="center">A passionate Web developer as Well as Data Scientist from India</h3>
-
+<img align ="right" width="400" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 - 🌱 I’m currently learning **Web Development,Python,**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tayyab-maniyar-ab0728231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/tayyab-maniyar-ab0728231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
